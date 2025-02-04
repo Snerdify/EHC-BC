@@ -8,7 +8,6 @@
 ✅ **Decentralized** – Ensures security & privacy  
 ✅ **Immutable Records** – Tamper-proof data storage  
 ✅ **Fast & Secure Access** – Encrypted & permission-based data sharing  
-✅ **Interoperability** – Works across multiple healthcare providers  
 
 ---
 
